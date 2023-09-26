@@ -1,0 +1,7 @@
+{
+  "name": "Tyler Tran",
+  "phoneNumber": "(801) 895-1204",
+  "email": "tntran@usc.edu",
+  "password": "1234",
+  "appointments": ["123", "124"]
+}
